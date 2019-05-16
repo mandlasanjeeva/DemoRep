@@ -29,6 +29,7 @@ public class Annagram {
 			}
 			else {
 				System.out.println("not");
+				System.out.println("These are are not anagrams");
 			}
 		}
 
